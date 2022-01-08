@@ -19,3 +19,5 @@ From: https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-p
     * Mess up comma in JSON. JSON is almost a perfect serialization format.
       It's too bad it has all these small warts.
 8. add tslint
+9. .prettierrc
+    * I really want the uber builder vim plugin
